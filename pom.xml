@@ -11,7 +11,7 @@
     <description>Spring Boot overlay-api</description>
 
     <properties>
-        <pdfbox.version>2.0.17</pdfbox.version>
+        <pdfbox.version>2.0.24</pdfbox.version>
         <itext.version>7.1.8</itext.version>
     </properties>
 
