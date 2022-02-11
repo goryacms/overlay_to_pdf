@@ -12,7 +12,7 @@
 
     <properties>
         <pdfbox.version>2.0.17</pdfbox.version>
-        <itext.version>7.1.8</itext.version>
+        <itext.version>7.2.0</itext.version>
     </properties>
 
     <parent>
